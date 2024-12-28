@@ -1,1 +1,1 @@
-# TASK_4_Cognifyz
+Number Pyramid pattern
